@@ -32,3 +32,10 @@ This project leverages the following technologies and patterns:
 3. Deploy the infrastructure: `aws cloudformation deploy --template-file infrastructure/stack.yaml --stack-name lesson-05-exercise-routing`
 4. Add your AWS credentials to a `.env` file.
 5. Run the router: `python telecom_router.py`
+
+## 📊 Sample Execution Report
+A full terminal output from processing 20 sample tickets is available in [`routing_report.txt`](./routing_report.txt). This demonstrates:
+- ✅ Priority routing catching cancellation intents immediately
+- ✅ Rule-based routing handling clear billing/technical tickets without LLM calls
+- ✅ LLM fallback classifying ambiguous tickets with confidence scores
+- ✅ DynamoDB audit logging of every routing decision
