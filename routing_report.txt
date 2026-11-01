@@ -9,8 +9,8 @@ Before we proceed with the cancellation, could you please share what specificall
 
 Additionally, I'd like to offer you a special retention deal to show our commitment to your satisfaction:
 
-- **20% Discount on your next three months of service**
-- **One free month of service as a goodwill gesture**
+- 20% Discount on your next three months of service
+- One free month of service as a goodwill gesture
 
 We value your feedback and want to make sure you have the best possible experience with us. Please let me know if this offer might change your mind or if there's anything else we can do to resolve your issues. Your satisfaction is our top priority.✅ Routed to: RetentionAgent
 📌 Reason: Priority cancellation intent detected (bypassed LLM)
@@ -20,33 +20,33 @@ We value your feedback and want to make sure you have the best possible experien
 I'm sorry to hear that your internet is down. Let's go through some troubleshooting steps to hopefully get your connection back up and running. 
 
 ### Step 1: Check the Router
-1. **Observe the Lights**: The red light usually indicates an error or a significant issue. Make a note of any other lights that might be on or blinking.
+1. Observe the Lights: The red light usually indicates an error or a significant issue. Make a note of any other lights that might be on or blinking.
    
-2. **Power Cycle the Router**:
+2. Power Cycle the Router:
     - Unplug the power cord from the router.
     - Wait for about 30 seconds.
     - Plug the power cord back in.
     - Wait for the router to fully reboot (usually takes about 2-3 minutes). 
 
 ### Step 2: Check the Cables
-1. **Power Cable**: Ensure the power cable is securely connected to both the router and the power outlet.
-2. **Ethernet Cable**: If you have a separate modem, make sure the Ethernet cable connecting the modem to the router is firmly plugged in at both ends.
-3. **Coaxial Cable**: If you have cable internet, ensure the coaxial cable from the wall is securely connected to the modem.
+1. Power Cable: Ensure the power cable is securely connected to both the router and the power outlet.
+2. Ethernet Cable: If you have a separate modem, make sure the Ethernet cable connecting the modem to the router is firmly plugged in at both ends.
+3. Coaxial Cable: If you have cable internet, ensure the coaxial cable from the wall is securely connected to the modem.
 
 ### Step 3: Check for Outages
-1. **Check with Your ISP**: Sometimes outages can affect your area. Visit your internet service provider’s website or use their app to check for any reported outages.
-2. **Contact Support**: If there’s an outage, you might need to wait until it’s resolved.
+1. Check with Your ISP: Sometimes outages can affect your area. Visit your internet service provider’s website or use their app to check for any reported outages.
+2. Contact Support: If there’s an outage, you might need to wait until it’s resolved.
 
 ### Step 4: Test Different Devices
-1. **Try Another Device**: Connect a different device (e.g., a smartphone, tablet, or laptop) to the router via Wi-Fi or Ethernet to see if it connects.
-2. **Test in Safe Mode**: If you can connect but the internet is slow, try disabling any antivirus or firewall temporarily to see if it affects connectivity.
+1. Try Another Device: Connect a different device (e.g., a smartphone, tablet, or laptop) to the router via Wi-Fi or Ethernet to see if it connects.
+2. Test in Safe Mode: If you can connect but the internet is slow, try disabling any antivirus or firewall temporarily to see if it affects connectivity.
 
 ### Step 5: Advanced Troubleshooting
-1. **Factory Reset**: If the issue persists, you might want to consider a factory reset on your router. Note that this will reset all your custom settings.
+1. Factory Reset: If the issue persists, you might want to consider a factory reset on your router. Note that this will reset all your custom settings.
     - Locate the reset button on your router (usually a small pinhole).
     - Use a paperclip or similar object to press and hold the reset button for about 10-15 seconds.
     - The router will reboot and return to its default settings.
-2. **Update Firmware**: Check if there’s a firmware update available for your router from the manufacturer’s website and follow their instructions to update it.
+2. Update Firmware: Check if there’s a firmware update available for your router from the manufacturer’s website and follow their instructions to update it.
 
 ### Step 6: Contact Technical Support
 If none of the above steps work, it might be time to contact your ISP’s technical support for further assistance. Provide them with details such as:
@@ -72,37 +72,37 @@ Could you please pr...
 --- Ticket 4: 'Can you tell me about the new data plans you offer...' ---
 Certainly! Our data plans have been updated to provide more flexibility and better value to our customers. Here’s an overview of the new offerings:
 
-### **1. **Flexible Data Plans**
-- **Unlimited Talk & Text:** Basic plan with unlimited calls and texts.
-- **5GB Data:** $30/month
-- **10GB Data:** $45/month
-- **15GB Data:** $60/month
+### 1. Flexible Data Plans
+- Unlimited Talk & Text: Basic plan with unlimited calls and texts.
+- 5GB Data:$30/month
+- 10GB Data: $45/month
+- 15GB Data:$60/month
 
-### **2. **Premium Data Plans**
-- **Unlimited Talk, Text, and Data:**
-  - **30GB Data:** $75/month
-  - **50GB Data:** $100/month
-  - **100GB Data:** $150/month
+### 2. Premium Data Plans
+- Unlimited Talk, Text, and Data:
+  - 30GB Data: $75/month
+  - 50GB Data: $100/month
+  - 100GB Data: $150/month
 
-### **3. **Family Data Plans**
-- **Split Data Pools:** Shareable data among multiple lines.
-  - **20GB Pool:** $60/month for up to 5 lines
-  - **30GB Pool:** $90/month for up to 5 lines
-  - **50GB Pool:** $150/month for up to 5 lines
+### 3. Family Data Plans
+- Split Data Pools: Shareable data among multiple lines.
+  - 20GB Pool: $60/month for up to 5 lines
+  - 30GB Pool: $90/month for up to 5 lines
+  - 50GB Pool: $150/month for up to 5 lines
 
-### **4. **International Data Plans**
-- **Add-On:** Available for Premium plans.
-  - **5GB International Data:** $10/month
-  - **10GB International Data:** $20/month
+### 4. International Data Plans
+- Add-On: Available for Premium plans.
+  - 5GB International Data: $10/month
+  - 10GB International Data: $20/month
 
-### **5. **Discounts & Promotions**
-- **New Customers:** 20% off for the first 3 months on all plans.
-- **Referral Bonus:** Get $20 off per month when you refer a friend who signs up.
+### 5. Discounts & Promotions
+- New Customers: 20% off for the first 3 months on all plans.
+- Referral Bonus: Get $20 off per month when you refer a friend who signs up.
 
-### **6. **Additional Features**
-- **Hotspot Access:** Included in all plans.
-- **Data Boost:** Purchase extra data at $10 per GB.
-- **Priority Customer Support:** Included with Premium plans.
+### 6. Additional Features
+- Hotspot Access: Included in all plans.
+- Data Boost: Purchase extra data at $10 per GB.
+- Priority Customer Support: Included with Premium plans.
 
 If you need further details or have specific questions about these plans, feel free to ask! I can also help you with the enrollment process or any additional features you might be interested in.✅ Routed to: GeneralSupportAgent
 📌 Reason: LLM classified as general/ambiguous (confidence: 0.95)
@@ -111,29 +111,29 @@ If you need further details or have specific questions about these plans, feel f
 --- Ticket 5: 'I'm moving to a new city, do I need to return my e...' ---
 When you're moving and need to cancel or change your services, whether you need to return your equipment depends on a few factors:
 
-### **1. Ownership of Equipment:**
-- **Owned Equipment:** If you own the equipment (e.g., modems, routers, etc.), you usually don’t need to return it. However, you may need to return it in good condition if specified in your contract.
-- **Leased Equipment:** If you leased the equipment, you must return it to avoid additional charges. Check your contract for return instructions and deadlines.
+### 1. Ownership of Equipment.
+- Owned Equipment: If you own the equipment (e.g., modems, routers, etc.), you usually don’t need to return it. However, you may need to return it in good condition if specified in your contract.
+- Leased Equipment: If you leased the equipment, you must return it to avoid additional charges. Check your contract for return instructions and deadlines.
 
-### **2. Service Contract Terms:**
+### 2. Service Contract Terms:
 - Review your contract for any clauses related to equipment return. Some contracts might have specific timelines or conditions.
 
-### **3. Contact Your Provider:**
-- **Notify Your Provider:** Inform your service provider about your move. They can provide specific instructions and may offer assistance.
-- **Return Instructions:** They can give you detailed instructions on how and where to return the equipment.
+### 3. Contact Your Provider:
+- Notify Your Provider: Inform your service provider about your move. They can provide specific instructions and may offer assistance.
+- Return Instructions: They can give you detailed instructions on how and where to return the equipment.
 
-### **4. Return Process:**
-- **Shipping:** You might be provided with a prepaid shipping label to return the equipment.
-- **Drop-off Locations:** Some providers have designated drop-off locations for equipment returns.
+### 4. Return Process:
+- Shipping: You might be provided with a prepaid shipping label to return the equipment.
+- Drop-off Locations: Some providers have designated drop-off locations for equipment returns.
 
-### **5. Final Bill:**
+### 5. Final Bill:
 - Ensure you receive a final bill confirming the return of equipment and any remaining balance owed.
 
 ### Steps to Take:
-1. **Check Your Contract:** Look for any clauses related to equipment return.
-2. **Contact Customer Service:** Reach out to your service provider’s customer support for specific instructions.
-3. **Schedule Equipment Return:** Follow the provided instructions to return the equipment on time.
-4. **Confirm Receipt:** Make sure to get a confirmation or receipt for the returned equipment.
+1. Check Your Contract: Look for any clauses related to equipment return.
+2. Contact Customer Service: Reach out to your service provider’s customer support for specific instructions.
+3. Schedule Equipment Return: Follow the provided instructions to return the equipment on time.
+4. Confirm Receipt: Make sure to get a confirmation or receipt for the returned equipment.
 
 If you provide more details about your current service provider and the type of equipment you have, I can offer more tailored advice.✅ Routed to: GeneralSupportAgent
 📌 Reason: LLM classified as general/ambiguous (confidence: 0.95)
@@ -154,28 +154,28 @@ Could you please provide the invoice number? I wi...
 Slow Wi-Fi speeds in specific areas of your home can be caused by various factors. Here are some steps to troubleshoot and potentially resolve the issue:
 
 ### Step 1: Check Your Device
-1. **Restart Your Device**: Sometimes, simply restarting your device can resolve connectivity issues.
-2. **Wi-Fi vs. Ethernet**: Connect your device directly to the router using an Ethernet cable to see if the speed improves. If it does, the issue is likely related to Wi-Fi signal strength.
+1. Restart Your Device: Sometimes, simply restarting your device can resolve connectivity issues.
+2. Wi-Fi vs. Ethernet: Connect your device directly to the router using an Ethernet cable to see if the speed improves. If it does, the issue is likely related to Wi-Fi signal strength.
 
 ### Step 2: Optimize Your Wi-Fi Signal
-1. **Router Placement**: Ensure your router is centrally located and elevated (e.g., on a shelf or mounted on a wall). Avoid placing it in corners, near thick walls, or next to electronic devices that might cause interference (e.g., microwaves, cordless phones).
-2. **Adjust Antennas**: If your router has external antennas, try adjusting their angles to see if it improves signal strength.
+1. Router Placement: Ensure your router is centrally located and elevated (e.g., on a shelf or mounted on a wall). Avoid placing it in corners, near thick walls, or next to electronic devices that might cause interference (e.g., microwaves, cordless phones).
+2. Adjust Antennas: If your router has external antennas, try adjusting their angles to see if it improves signal strength.
 
 ### Step 3: Reduce Interference
-1. **Electronic Devices**: Keep your router away from electronic devices that could cause interference (microwaves, cordless phones, baby monitors, etc.).
-2. **Other Networks**: Check if there are many Wi-Fi networks in your vicinity. Use a Wi-Fi analyzer app to see which channels are less crowded and switch your router to one of those channels.
+1. Electronic Devices: Keep your router away from electronic devices that could cause interference (microwaves, cordless phones, baby monitors, etc.).
+2. Other Networks: Check if there are many Wi-Fi networks in your vicinity. Use a Wi-Fi analyzer app to see which channels are less crowded and switch your router to one of those channels.
 
 ### Step 4: Update Your Router’s Firmware
-1. **Check for Updates**: Log in to your router’s web interface (usually by entering `192.168.1.1` or `192.168.0.1` in your web browser) and check for firmware updates.
-2. **Update**: If an update is available, follow the instructions to install it.
+1. Check for Updates: Log in to your router’s web interface (usually by entering `192.168.1.1` or `192.168.0.1` in your web browser) and check for firmware updates.
+2. Update: If an update is available, follow the instructions to install it.
 
 ### Step 5: Change Wi-Fi Channel
-1. **Access Router Settings**: Log in to your router’s web interface.
-2. **Change Channel**: Navigate to the Wi-Fi settings and look for an option to change the channel. Switch to a less crowded channel (e.g., 1, 6, or 11 for a 2.4 GHz network).
+1. Access Router Settings: Log in to your router’s web interface.
+2. Change Channel: Navigate to the Wi-Fi settings and look for an option to change the channel. Switch to a less crowded channel (e.g., 1, 6, or 11 for a 2.4 GHz network).
 
 ### Step 6: Upgrade Your Router
-1. **Dual-Band Router**: If you have an older single-band router, consider upgrading to a dual-band (2.4 GHz and 5 GHz) router. The 5 GHz band often has less interference and higher speeds.
-2. **Mesh Network**: For larger homes, a mesh Wi-Fi system can provide better coverage by having multiple nodes placed around your home.
+1. Dual-Band Router: If you have an older single-band router, consider upgrading to a dual-band (2.4 GHz and 5 GHz) router. The 5 GHz band often has less interference and higher speeds.
+2. Mesh Network: For larger homes, a mesh Wi-Fi system can provide better coverage by having multiple nodes placed around your home.
 
 ### Step 7: Contact ISP
 If you've tried all the above steps and the issue persists, it might be worth contacting your Internet Service Provider (ISP). They can check if there are any issues on their end or if your plan supports higher speeds that might not be configured correctly.
@@ -191,8 +191,8 @@ If there's any specific feedback you could provide on what could have been bette
 
 However, if you still wish to proceed with the cancellation, I'll make sure to guide you through the process. As a final effort to retain you as a customer, I'd like to offer you one last retention deal:
 
-- **Full refund of your next billing cycle**
-- **A free month of service if you decide to return in the future**
+- Full refund of your next billing cycle
+- A free month of service if you decide to return in the future
 
 This offer is our way of showing appreciation for your loyalty and providing you with flexibility. Please let me know if this might help you reconsider your decision.
 
@@ -204,24 +204,24 @@ Thank you for your time, and I hope you understand we're here to support you in 
 I'm glad you reached out, but I'm not able to assist with account password resets as I don't have access to personal account information. Please follow these general steps to reset your password:
 
 ### For Most Online Services:
-1. **Go to the Login Page**: Navigate to the website or app’s login page.
-2. **Click on "Forgot Password" or Similar**: Look for a link that says "Forgot Password," "Reset Password," or something similar.
-3. **Enter Your Account Information**: You'll typically be asked to enter your email address, username, or phone number associated with the account.
-4. **Verification**: Follow the instructions to verify your identity. This may include:
+1. Go to the Login Page: Navigate to the website or app’s login page.
+2. Click on "Forgot Password" or Similar**: Look for a link that says "Forgot Password," "Reset Password," or something similar.
+3. Enter Your Account Information: You'll typically be asked to enter your email address, username, or phone number associated with the account.
+4. Verification: Follow the instructions to verify your identity. This may include:
     - Entering a verification code sent to your email or phone.
     - Answering security questions.
     - Using a secondary email or phone number.
-5. **Create a New Password**: Once verified, you’ll be prompted to create a new password. Make sure it’s strong and unique.
-6. **Confirm and Save**: Confirm your new password and save the changes.
+5. Create a New Password: Once verified, you’ll be prompted to create a new password. Make sure it’s strong and unique.
+6. Confirm and Save: Confirm your new password and save the changes.
 
 ### For Specific Services:
 #### Google Account
-1. **Go to the Google Account Recovery Page**: [Google Account Recovery](https://accounts.google.com/signin/recovery)
-2. **Follow the Steps**: Enter the email address or phone number you use to sign in, then follow the prompts to verify your identity and reset your password.
+1. Go to the Google Account Recovery Page: [Google Account Recovery](https://accounts.google.com/signin/recovery)
+2. Follow the Steps: Enter the email address or phone number you use to sign in, then follow the prompts to verify your identity and reset your password.
 
 #### Facebook
-1. **Go to the Facebook Login Page**: [Facebook Login](https://www.facebook.com/login/identify)
-2. **Follow the Steps**: Enter your email address, phone number, or full name, then follow the prompts to reset your password.
+1. Go to the Facebook Login Page: [Facebook Login](https://www.facebook.com/login/identify)
+2. Follow the Steps: Enter your email address, phone number, or full name, then follow the prompts to reset your password.
 
 #### Other Services
 If you are using a different service, look for a "Forgot Password" or "Reset Password" link on their login page and follow the specific instructions they provide.
@@ -247,44 +247,44 @@ Could you please provide the invoice numbers fo...
 Random disconnections can be frustrating, but there are several steps you can take to diagnose and fix the issue. Here are some steps to troubleshoot and hopefully resolve the problem:
 
 ### Step 1: Check Physical Connections
-1. **Inspect Cables**: Ensure all cables (Ethernet, power, etc.) are securely connected.
-2. **Check for Damage**: Look for any visible damage to the cables or router.
+1. Inspect Cables: Ensure all cables (Ethernet, power, etc.) are securely connected.
+2. Check for Damage: Look for any visible damage to the cables or router.
 
 ### Step 2: Reboot Your Router
-1. **Power Cycle**:
+1. Power Cycle:
     - Unplug the power cord from the router.
     - Wait for about 30 seconds.
     - Plug the power cord back in.
     - Wait for the router to fully reboot (usually takes about 2-3 minutes).
 
 ### Step 3: Update Firmware
-1. **Check for Updates**: Log in to your router’s web interface (usually by entering `192.168.1.1` or `192.168.0.1` in your web browser) and check if there’s a firmware update available.
-2. **Update**: If an update is available, follow the instructions to install it.
+1. Check for Updates: Log in to your router’s web interface (usually by entering `192.168.1.1` or `192.168.0.1` in your web browser) and check if there’s a firmware update available.
+2. Update: If an update is available, follow the instructions to install it.
 
 ### Step 4: Check for Interference
-1. **Electronic Devices**: Keep your router away from electronic devices that might cause interference (e.g., microwaves, cordless phones, baby monitors).
-2. **Change Channel**: 
+1. Electronic Devices: Keep your router away from electronic devices that might cause interference (e.g., microwaves, cordless phones, baby monitors).
+2. Change Channel: 
     - Log in to your router’s web interface.
     - Navigate to the Wi-Fi settings.
     - Change the Wi-Fi channel to one that is less crowded (e.g., 1, 6, or 11 for a 2.4 GHz network).
 
 ### Step 5: Optimize Router Placement
-1. **Central Location**: Place your router in a central, elevated location to improve signal strength.
-2. **Avoid Obstacles**: Minimize physical obstructions between your devices and the router.
+1. Central Location: Place your router in a central, elevated location to improve signal strength.
+2. Avoid Obstacles: Minimize physical obstructions between your devices and the router.
 
 ### Step 6: Change Wi-Fi Settings
-1. **Dual-Band Router**: If you have a dual-band router, try connecting to the 5 GHz band instead of the 2.4 GHz band, as it often has less interference.
-2. **Channel Width**: In the router settings, try changing the channel width from auto to 20 MHz for the 2.4 GHz band.
+1. Dual-Band Router: If you have a dual-band router, try connecting to the 5 GHz band instead of the 2.4 GHz band, as it often has less interference.
+2. Channel Width: In the router settings, try changing the channel width from auto to 20 MHz for the 2.4 GHz band.
 
 ### Step 7: Check for Overload
-1. **Connected Devices**: Ensure you’re not overloading your network with too many connected devices.
-2. **Bandwidth Usage**: Check if any specific devices are consuming too much bandwidth (e.g., streaming, large downloads).
+1. Connected Devices: Ensure you’re not overloading your network with too many connected devices.
+2. Bandwidth Usage: Check if any specific devices are consuming too much bandwidth (e.g., streaming, large downloads).
 
 ### Step 8: Factory Reset
 If none of the above steps work, you might want to consider a factory reset of your router. Note that this will reset all your custom settings.
-1. **Locate Reset Button**: Find the reset button on your router (usually a small pinhole).
-2. **Press and Hold**: Use a paperclip or similar object to press and hold the reset button for about 10-15 seconds.
-3. **Reboot**: The router will reboot and return to its default settings.
+1. Locate Reset Button: Find the reset button on your router (usually a small pinhole).
+2. Press and Hold: Use a paperclip or similar object to press and hold the reset button for about 10-15 seconds.
+3. Reboot: The router will reboot and return to its default settings.
 
 ### Step 9: Contact Support
 If the issue persists, it might be time to contact your ISP’s technical support or the router manufacturer’s support for further assistance.
@@ -296,32 +296,32 @@ By following these steps, you should be able to diagnose and potentially resolve
 --- Ticket 12: 'Is there a student discount available?...' ---
 Many service providers offer student discounts to help students save on their services. Here are some common types of student discounts and how you might qualify:
 
-### **1. **General Discounts**
-- **Percentage Off:** Many providers offer a flat percentage discount, typically around 10-20% off the monthly rate.
-- **Lower-Tier Plans:** Some providers offer access to lower-tier plans that are not available to the general public.
+### 1. General Discounts
+- Percentage Off: Many providers offer a flat percentage discount, typically around 10-20% off the monthly rate.
+- Lower-Tier Plans: Some providers offer access to lower-tier plans that are not available to the general public.
 
-### **2. **Special Plans for Students**
-- **Student Data Plans:** These plans might include more data at a lower price.
-- **Bundled Services:** Some providers offer bundled plans that include phone, internet, and possibly TV at a discounted rate.
+### 2. Special Plans for Students
+- Student Data Plans: These plans might include more data at a lower price.
+- Bundled Services: Some providers offer bundled plans that include phone, internet, and possibly TV at a discounted rate.
 
-### **3. **Promotional Offers**
-- **Limited Time Offers:** Some providers run promotions where students can get a certain number of months at a discounted rate.
-- **Referral Discounts:** Some providers offer discounts if you refer other students.
+### 3. Promotional Offers
+- Limited Time Offers: Some providers run promotions where students can get a certain number of months at a discounted rate.
+- Referral Discounts: Some providers offer discounts if you refer other students.
 
-### **How to Qualify:**
-1. **Student Verification:** You will likely need to provide proof of enrollment, such as a student ID, enrollment letter, or school email address.
-2. **Age Requirement:** Some providers may have an age requirement, typically up to 25 years old.
-3. **Contract Terms:** Check if the discount applies to new customers only or if it can be applied to existing customers.
+### How to Qualify:
+1. Student Verification: You will likely need to provide proof of enrollment, such as a student ID, enrollment letter, or school email address.
+2. Age Requirement: Some providers may have an age requirement, typically up to 25 years old.
+3. Contract Terms: Check if the discount applies to new customers only or if it can be applied to existing customers.
 
-### **Steps to Get a Student Discount:**
-1. **Contact Customer Service:** Call or chat with your service provider’s customer support to inquire about student discounts.
-2. **Provide Documentation:** Be prepared to provide proof of your student status.
-3. **Enroll in the Discount Plan:** Follow the instructions to enroll in the student discount plan.
+### Steps to Get a Student Discount:
+1. Contact Customer Service: Call or chat with your service provider’s customer support to inquire about student discounts.
+2. Provide Documentation: Be prepared to provide proof of your student status.
+3. Enroll in the Discount Plan: Follow the instructions to enroll in the student discount plan.
 
-### **Example Providers:**
-- **Provider A:** Offers 15% off all plans for students.
-- **Provider B:** Offers a special student data plan with 20GB for $35/month.
-- **Provider C:** Offers a referral discount where both the referrer and the referred student get a discount.
+### Example Providers:
+- Provider A: Offers 15% off all plans for students.
+- Provider B: Offers a special student data plan with 20GB for $35/month.
+- Provider C: Offers a referral discount where both the referrer and the referred student get a discount.
 
 If you let me know which service provider you are using, I can give more specific information about their student discount options.✅ Routed to: GeneralSupportAgent
 📌 Reason: LLM classified as general/ambiguous (confidence: 0.95)
@@ -330,66 +330,66 @@ If you let me know which service provider you are using, I can give more specifi
 --- Ticket 13: 'I need to update my credit card on file....' ---
 Updating your credit card on file is a straightforward process. Here’s how you can do it:
 
-### **1. **Online Account Management:**
-1. **Log In:** Go to your service provider’s website and log in to your account.
-2. **Navigate to Billing:** Look for a section labeled "Billing," "Payment Information," or something similar.
-3. **Update Credit Card:** Find the option to update your credit card details. You may need to enter the new card information, including the card number, expiration date, and CVV.
-4. **Save Changes:** Confirm and save the new credit card information.
+### 1. Online Account Management:
+1. Log In: Go to your service provider’s website and log in to your account.
+2. Navigate to Billing: Look for a section labeled "Billing," "Payment Information," or something similar.
+3. Update Credit Card: Find the option to update your credit card details. You may need to enter the new card information, including the card number, expiration date, and CVV.
+4. Save Changes: Confirm and save the new credit card information.
 
-### **2. **Customer Service:**
-1. **Contact Support:** Call your service provider’s customer service. The phone number is usually on the back of your bill or on their website.
-2. **Provide Information:** Be ready to provide your account number, the old credit card information, and the new credit card details.
-3. **Verify:** The representative may ask for additional verification to ensure the change is made by the account holder.
+### 2. Customer Service:
+1. Contact Support: Call your service provider’s customer service. The phone number is usually on the back of your bill or on their website.
+2. Provide Information: Be ready to provide your account number, the old credit card information, and the new credit card details.
+3. Verify: The representative may ask for additional verification to ensure the change is made by the account holder.
 
-### **3. **Mobile App:**
-1. **Open the App:** Launch the mobile app for your service provider.
-2. **Account Settings:** Navigate to the account or billing section.
-3. **Update Payment Method:** Look for an option to update your payment method and enter the new credit card details.
-4. **Save Changes:** Confirm the update.
+### 3. Mobile App:
+1. Open the App: Launch the mobile app for your service provider.
+2. Account Settings: Navigate to the account or billing section.
+3. Update Payment Method: Look for an option to update your payment method and enter the new credit card details.
+4. Save Changes: Confirm the update.
 
-### **4. **Mail/Email:**
-1. **Write a Letter/Email:** If you prefer, you can send a written request to update your credit card information. Include your account number, the old credit card information, and the new credit card details.
-2. **Send to Provider:** Mail the letter to the address provided by your service provider, or send the email to the customer service email address.
+### 4. Mail/Email:
+1. Write a Letter/Email: If you prefer, you can send a written request to update your credit card information. Include your account number, the old credit card information, and the new credit card details.
+2. Send to Provider: Mail the letter to the address provided by your service provider, or send the email to the customer service email address.
 
-### **Important Tips:**
-- **Double-Check Information:** Ensure the new credit card information is entered correctly to avoid payment issues.
-- **Confirmation:** After updating, you should receive a confirmation email or a notification within your account.
+### Important Tips:
+- Double-Check Information: Ensure the new credit card information is entered correctly to avoid payment issues.
+- Confirmation: After updating, you should receive a confirmation email or a notification within your account.
 
 If you need help with a specific service provider, please let me know, and I can give you more detailed instructions tailored to their process.✅ Routed to: GeneralSupportAgent
 📌 Reason: LLM classified as general/ambiguous (confidence: 0.95)
 💬 Response Preview: Updating your credit card on file is a straightforward process. Here’s how you can do it:
 
-### **1. **Online Account Man...
+### 1. Online Account Man...
 
 --- Ticket 14: 'The technician didn't show up for my installation ...' ---
 I’m sorry to hear that your technician didn’t show up for your installation appointment. Here are some steps you can take to resolve this issue:
 
 ### Step 1: Contact the Service Provider
-1. **Call Customer Support**: Contact the customer support number provided by your service provider. This number is usually on your appointment confirmation email or on their website.
-2. **Explain the Situation**: Clearly explain that your technician did not show up for the appointment and provide your appointment details (date, time, and your contact information).
+1. Call Customer Support: Contact the customer support number provided by your service provider. This number is usually on your appointment confirmation email or on their website.
+2. Explain the Situation: Clearly explain that your technician did not show up for the appointment and provide your appointment details (date, time, and your contact information).
 
 ### Step 2: Check Communication
-1. **Email or Message**: If calling is not convenient, send an email or message to the customer support team with the same details.
-2. **Follow Up**: If you don’t receive a response within a reasonable timeframe, follow up with another call or message.
+1. Email or Message: If calling is not convenient, send an email or message to the customer support team with the same details.
+2. Follow Up: If you don’t receive a response within a reasonable timeframe, follow up with another call or message.
 
 ### Step 3: Reschedule the Appointment
-1. **New Appointment**: If the support team is unable to resolve the issue immediately, ask them to reschedule your appointment for a later date and time that works for you.
-2. **Confirm Details**: Ensure that you get confirmation of the new appointment details.
+1. New Appointment: If the support team is unable to resolve the issue immediately, ask them to reschedule your appointment for a later date and time that works for you.
+2. Confirm Details: Ensure that you get confirmation of the new appointment details.
 
 ### Step 4: Check for Technical Issues
-1. **Internet Connection**: Ensure your internet connection is stable if you’re contacting via phone or email.
-2. **Backup Plan**: Have a backup plan in case you can’t reach customer support (e.g., try a different phone number or email).
+1. Internet Connection: Ensure your internet connection is stable if you’re contacting via phone or email.
+2. Backup Plan: Have a backup plan in case you can’t reach customer support (e.g., try a different phone number or email).
 
 ### Step 5: Document the Issue
-1. **Keep Records**: Keep a record of all communications with the support team, including dates, times, and the names of any representatives you speak with.
-2. **Follow-Up**: If the issue is not resolved after your initial contact, follow up with higher-level support or management if necessary.
+1. Keep Records: Keep a record of all communications with the support team, including dates, times, and the names of any representatives you speak with.
+2. Follow-Up: If the issue is not resolved after your initial contact, follow up with higher-level support or management if necessary.
 
 ### Step 6: Consider Alternatives
-1. **Other Technicians**: If the service provider is unable to provide a solution, ask if there are other technicians available who can complete the installation.
-2. **Third-Party Help**: If all else fails, consider hiring a third-party technician to complete the installation, but ensure they are reputable and authorized by your service provider.
+1. Other Technicians: If the service provider is unable to provide a solution, ask if there are other technicians available who can complete the installation.
+2. Third-Party Help: If all else fails, consider hiring a third-party technician to complete the installation, but ensure they are reputable and authorized by your service provider.
 
 ### Step 7: Compensation
-1. **Ask for Compensation**: If the no-show caused significant inconvenience, ask the service provider if they can offer any form of compensation, such as a discount on future services or a refund of any fees paid for the missed appointment.
+1. Ask for Compensation: If the no-show caused significant inconvenience, ask the service provider if they can offer any form of compensation, such as a discount on future services or a refund of any fees paid for the missed appointment.
 
 By following these steps, you should be able to get the issue resolved and have your installation appointment rescheduled. If you need further assistance, feel free to ask!✅ Routed to: TechnicalAgent
 📌 Reason: LLM classified as technical (confidence: 0.95)
@@ -402,8 +402,8 @@ Before we proceed with the cancellation, could you please share more details abo
 
 As a final effort to retain you, I'd like to offer you the following retention deal:
 
-- **Complete refund of your next billing cycle**
-- **One free month of service if you decide to return in the future**
+- Complete refund of your next billing cycle
+- One free month of service if you decide to return in the future
 
 We hope this offer might encourage you to reconsider, as we want to ensure you have the best possible experience. Your satisfaction is very important to us, and we're here to support you.
 
@@ -414,61 +414,61 @@ If you still wish to cancel, I'll make sure the process is as smooth as possible
 --- Ticket 16: 'What are the hours for your customer support?...' ---
 Customer support hours can vary by service provider, but many offer support during the following times:
 
-### **General Customer Support Hours:**
-- **Phone Support:** Typically available from 8:00 AM to 8:00 PM local time, Monday through Friday. Some providers may offer extended hours on weekends.
-- **Live Chat:** Usually available from 8:00 AM to 8:00 PM local time, Monday through Friday. Weekend availability may vary.
-- **Email Support:** Responses are generally provided within 24 to 48 hours, though urgent issues may receive quicker responses.
-- **Social Media:** Some providers offer support through social media platforms like Twitter and Facebook, often with varying hours.
+### General Customer Support Hours:
+- Phone Support: Typically available from 8:00 AM to 8:00 PM local time, Monday through Friday. Some providers may offer extended hours on weekends.
+- Live Chat: Usually available from 8:00 AM to 8:00 PM local time, Monday through Friday. Weekend availability may vary.
+- Email Support: Responses are generally provided within 24 to 48 hours, though urgent issues may receive quicker responses.
+- Social Media: Some providers offer support through social media platforms like Twitter and Facebook, often with varying hours.
 
-### **Specific Providers:**
-- **Provider A:** Phone support from 7:00 AM to 11:00 PM local time, Monday through Sunday. Live chat available from 8:00 AM to 10:00 PM.
-- **Provider B:** Phone support from 6:00 AM to 10:00 PM local time, Monday through Friday, and 8:00 AM to 6:00 PM on weekends. Live chat available from 7:00 AM to 11:00 PM.
-- **Provider C:** Phone support from 8:00 AM to 8:00 PM local time, Monday through Friday. Live chat available from 9:00 AM to 9:00 PM.
+### Specific Providers:
+- Provider A: Phone support from 7:00 AM to 11:00 PM local time, Monday through Sunday. Live chat available from 8:00 AM to 10:00 PM.
+- Provider B: Phone support from 6:00 AM to 10:00 PM local time, Monday through Friday, and 8:00 AM to 6:00 PM on weekends. Live chat available from 7:00 AM to 11:00 PM.
+- Provider C: Phone support from 8:00 AM to 8:00 PM local time, Monday through Friday. Live chat available from 9:00 AM to 9:00 PM.
 
-### **Tips for Contacting Support:**
-- **Peak Hours:** Avoid calling during peak hours (around noon and early evening) to reduce wait times.
-- **Use Online Resources:** Check the provider’s website for FAQs and troubleshooting guides that might answer your question without needing to contact support.
-- **Account Management:** Many providers allow you to manage your account, update information, and check the status of your service online, which can save time.
+### Tips for Contacting Support:
+- Peak Hours: Avoid calling during peak hours (around noon and early evening) to reduce wait times.
+- Use Online Resources: Check the provider’s website for FAQs and troubleshooting guides that might answer your question without needing to contact support.
+- Account Management: Many providers allow you to manage your account, update information, and check the status of your service online, which can save time.
 
 If you provide the name of the service provider, I can give you more specific information about their customer support hours.✅ Routed to: GeneralSupportAgent
 📌 Reason: LLM classified as general/ambiguous (confidence: 0.95)
 💬 Response Preview: Customer support hours can vary by service provider, but many offer support during the following times:
 
-### **General C...
+### General C...
 
 --- Ticket 17: 'My phone line is dead, no dial tone at all....' ---
 A dead phone line can be caused by several issues, ranging from a simple disconnection to more serious problems with the phone service. Here are some steps to troubleshoot and resolve the issue:
 
 ### Step 1: Check Physical Connections
-1. **Inspect Phone Connections**: Ensure that the phone cord is securely plugged into the wall jack and the phone.
-2. **Check for Damage**: Look for any visible damage to the phone cord or wall jack.
+1. Inspect Phone Connections: Ensure that the phone cord is securely plugged into the wall jack and the phone.
+2. Check for Damage: Look for any visible damage to the phone cord or wall jack.
 
 ### Step 2: Test Another Phone
-1. **Use a Different Phone**: Connect a different phone to the same wall jack to see if it works. If the second phone also has no dial tone, the issue is likely with the line or service.
-2. **Test with a Cell Phone**: If possible, use a cell phone to call your landline and see if you can hear a ring or any sound. If you can, the issue might be with your phone.
+1. Use a Different Phone: Connect a different phone to the same wall jack to see if it works. If the second phone also has no dial tone, the issue is likely with the line or service.
+2. Test with a Cell Phone: If possible, use a cell phone to call your landline and see if you can hear a ring or any sound. If you can, the issue might be with your phone.
 
 ### Step 3: Check for Service Outages
-1. **Visit Your ISP’s Website**: Check if there are any reported outages in your area.
-2. **Contact Customer Support**: If there is an outage, wait until it is resolved.
+1. Visit Your ISP’s Website: Check if there are any reported outages in your area.
+2. Contact Customer Support: If there is an outage, wait until it is resolved.
 
 ### Step 4: Check the Modem/Router
-1. **Unplug and Plug Back In**: Unplug your modem or router, wait for about 30 seconds, and then plug it back in. Wait for it to fully reboot.
-2. **Check Lights**: Check the lights on your modem or router. A specific light (often labeled “Phone” or “Voice”) should indicate that the phone line is active.
+1. Unplug and Plug Back In: Unplug your modem or router, wait for about 30 seconds, and then plug it back in. Wait for it to fully reboot.
+2. Check Lights: Check the lights on your modem or router. A specific light (often labeled “Phone” or “Voice”) should indicate that the phone line is active.
 
 ### Step 5: Inspect the Jack
-1. **Check the Wall Jack**: Ensure that the wall jack is not damaged and is securely connected.
-2. **Test Another Jack**: If you have another phone jack in your home, try plugging your phone into that jack to see if it works.
+1. Check the Wall Jack: Ensure that the wall jack is not damaged and is securely connected.
+2. Test Another Jack: If you have another phone jack in your home, try plugging your phone into that jack to see if it works.
 
 ### Step 6: Contact Your Phone Service Provider
-1. **Call Customer Support**: If none of the above steps resolve the issue, contact your phone service provider’s customer support.
-2. **Provide Details**: Give them the details of the problem, including that there is no dial tone and any steps you have already taken to troubleshoot.
+1. Call Customer Support: If none of the above steps resolve the issue, contact your phone service provider’s customer support.
+2. Provide Details: Give them the details of the problem, including that there is no dial tone and any steps you have already taken to troubleshoot.
 
 ### Step 7: Schedule a Technician Visit
-1. **Request Service**: If the issue persists, request a technician visit. The service provider should send a technician to check the line and make any necessary repairs.
+1. Request Service: If the issue persists, request a technician visit. The service provider should send a technician to check the line and make any necessary repairs.
 
 ### Step 8: Temporary Solutions
-1. **Use a VoIP Service**: If you need a temporary solution, consider using a Voice over Internet Protocol (VoIP) service that requires an internet connection but can provide phone service.
-2. **Cell Phone as Backup**: Use a cell phone for emergency calls until the issue is resolved.
+1. Use a VoIP Service: If you need a temporary solution, consider using a Voice over Internet Protocol (VoIP) service that requires an internet connection but can provide phone service.
+2. Cell Phone as Backup: Use a cell phone for emergency calls until the issue is resolved.
 
 By following these steps, you should be able to identify and potentially resolve the issue with your dead phone line. If you need further assistance, feel free to ask!✅ Routed to: TechnicalAgent
 📌 Reason: LLM classified as technical (confidence: 0.95)
@@ -477,33 +477,33 @@ By following these steps, you should be able to identify and potentially resolve
 --- Ticket 18: 'Can I pause my service for a month while I travel?...' ---
 Many service providers offer options to pause or suspend your service temporarily while you travel. Here’s how you can typically manage this:
 
-### **1. **Service Suspension:**
-- **Contact Customer Support:** Call your service provider’s customer support to inquire about service suspension options.
-- **Request Suspension:** Explain that you will be traveling and request a temporary suspension of your service.
-- **Duration:** Specify the dates you want the service suspended for and confirm any potential reactivation fees.
+### 1. Service Suspension:
+- Contact Customer Support: Call your service provider’s customer support to inquire about service suspension options.
+- Request Suspension: Explain that you will be traveling and request a temporary suspension of your service.
+- Duration: Specify the dates you want the service suspended for and confirm any potential reactivation fees.
 
-### **2. **Fees and Charges:**
-- **Reactivation Fees:** Some providers may charge a fee to reactivate your service after suspension.
-- **No Additional Charges:** Others may suspend service at no extra cost, but you might still be billed for the entire month.
+### 2. Fees and Charges:
+- Reactivation Fees: Some providers may charge a fee to reactivate your service after suspension.
+- No Additional Charges: Others may suspend service at no extra cost, but you might still be billed for the entire month.
 
-### **3. **Account Management:**
-- **Online Account Management:** Log in to your account on the provider’s website and look for options to suspend service. Follow the prompts to confirm the suspension.
-- **Mobile App:** If your provider has a mobile app, you can often manage your account and suspend service through the app.
+### 3. Account Management:
+- Online Account Management: Log in to your account on the provider’s website and look for options to suspend service. Follow the prompts to confirm the suspension.
+- Mobile App: If your provider has a mobile app, you can often manage your account and suspend service through the app.
 
-### **4. **Notifications:**
-- **Auto-Reactivation:** Some providers automatically reactivate your service after the suspension period. Confirm the reactivation date to avoid unexpected charges.
-- **Alerts:** Set up alerts or reminders for the end of your suspension period to ensure you remember to reactivate your service.
+### 4. Notifications:
+- Auto-Reactivation: Some providers automatically reactivate your service after the suspension period. Confirm the reactivation date to avoid unexpected charges.
+- Alerts: Set up alerts or reminders for the end of your suspension period to ensure you remember to reactivate your service.
 
-### **Example Providers:**
-- **Provider A:** Offers a free service suspension for up to 30 days with no reactivation fees.
-- **Provider B:** Charges a $25 reactivation fee but allows service suspension at no extra cost.
-- **Provider C:** Offers a temporary service pause for travel with no additional charges and auto-reactivation.
+### Example Providers:
+- Provider A: Offers a free service suspension for up to 30 days with no reactivation fees.
+- Provider B: Charges a $25 reactivation fee but allows service suspension at no extra cost.
+- Provider C: Offers a temporary service pause for travel with no additional charges and auto-reactivation.
 
-### **Steps to Take:**
-1. **Check Your Contract:** Review your service agreement for any clauses related to service suspension.
-2. **Contact Support:** Call or chat with customer support to request the suspension.
-3. **Confirm Details:** Get confirmation of the suspension dates and any fees involved.
-4. **Plan for Reactivation:** Set a reminder to reactivate your service before the end of your travel period.
+### Steps to Take:
+1. Check Your Contract: Review your service agreement for any clauses related to service suspension.
+2. Contact Support: Call or chat with customer support to request the suspension.
+3. Confirm Details: Get confirmation of the suspension dates and any fees involved.
+4. Plan for Reactivation: Set a reminder to reactivate your service before the end of your travel period.
 
 If you let me know which service provider you are using, I can give you more specific information about their suspension options.✅ Routed to: GeneralSupportAgent
 📌 Reason: LLM classified as general/ambiguous (confidence: 0.95)
@@ -524,36 +524,36 @@ Could you please provide the invoice number for the statement in questio...
 If you’re looking to upgrade your TV package, here are some steps to guide you through the process:
 
 ### Step 1: Determine Your Needs
-1. **Evaluate Current Package**: Review what channels and services you currently have and what you regularly watch.
-2. **Identify Desired Changes**: Decide if you want more channels, higher definition, additional streaming services, or other features.
+1. Evaluate Current Package: Review what channels and services you currently have and what you regularly watch.
+2. Identify Desired Changes: Decide if you want more channels, higher definition, additional streaming services, or other features.
 
 ### Step 2: Research Available Packages
-1. **Provider Options**: Check your current TV service provider’s website for available packages. Look for any new or upgraded options that meet your needs.
-2. **Compare Packages**: Compare the features, costs, and benefits of different packages. Some providers offer customizable packages where you can pick and choose channels.
+1. Provider Options: Check your current TV service provider’s website for available packages. Look for any new or upgraded options that meet your needs.
+2. Compare Packages: Compare the features, costs, and benefits of different packages. Some providers offer customizable packages where you can pick and choose channels.
 
 ### Step 3: Check for Promotions
-1. **Promotions and Discounts**: Look for any promotional offers or discounts for upgrading or switching packages. Sometimes providers offer special deals for new or existing customers.
-2. **Bundle Offers**: Consider if there are bundle offers that include internet, phone, and TV services for a discounted rate.
+1. Promotions and Discounts: Look for any promotional offers or discounts for upgrading or switching packages. Sometimes providers offer special deals for new or existing customers.
+2. Bundle Offers: Consider if there are bundle offers that include internet, phone, and TV services for a discounted rate.
 
 ### Step 4: Contact Your Service Provider
-1. **Call Customer Support**: Contact your TV service provider’s customer support to discuss your options and any available upgrades.
-2. **Ask Questions**: Inquire about any questions you have regarding the new package, including costs, installation requirements, and any additional equipment needed.
+1. Call Customer Support: Contact your TV service provider’s customer support to discuss your options and any available upgrades.
+2. Ask Questions: Inquire about any questions you have regarding the new package, including costs, installation requirements, and any additional equipment needed.
 
 ### Step 5: Upgrade or Switch Providers
-1. **Upgrade Your Package**: If you decide to upgrade your current package, follow the provider’s instructions to make the change. This might involve filling out a form or speaking with a representative.
-2. **Switch Providers**: If you find a better package with another provider, follow their process for switching services. This might include canceling your current service and setting up a new account.
+1. Upgrade Your Package: If you decide to upgrade your current package, follow the provider’s instructions to make the change. This might involve filling out a form or speaking with a representative.
+2. Switch Providers: If you find a better package with another provider, follow their process for switching services. This might include canceling your current service and setting up a new account.
 
 ### Step 6: Installation and Setup
-1. **Schedule Installation**: If your new package requires additional equipment (like a new set-top box or DVR), schedule an installation appointment.
-2. **Follow Instructions**: Follow any setup instructions provided by your service provider to ensure everything is working correctly.
+1. Schedule Installation: If your new package requires additional equipment (like a new set-top box or DVR), schedule an installation appointment.
+2. Follow Instructions: Follow any setup instructions provided by your service provider to ensure everything is working correctly.
 
 ### Step 7: Confirm Service
-1. **Check Channels**: After installation, verify that all channels and services included in your new package are working properly.
-2. **Review Billing**: Ensure your billing reflects the new package and that there are no unexpected charges.
+1. Check Channels: After installation, verify that all channels and services included in your new package are working properly.
+2. Review Billing: Ensure your billing reflects the new package and that there are no unexpected charges.
 
 ### Step 8: Enjoy Your New Package
-1. **Explore New Features**: Take some time to explore the new channels and features of your upgraded package.
-2. **Feedback**: If you have any issues or questions, don’t hesitate to contact your service provider’s customer support.
+1. Explore New Features: Take some time to explore the new channels and features of your upgraded package.
+2. Feedback: If you have any issues or questions, don’t hesitate to contact your service provider’s customer support.
 
 By following these steps, you can successfully upgrade your TV package to better suit your needs and preferences. If you need further assistance, feel free to ask!✅ Routed to: TechnicalAgent
 📌 Reason: Rule-based match: technical keywords (bypassed LLM)
